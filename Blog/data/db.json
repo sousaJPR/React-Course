@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Artigo 1",
+      "datetime": "September 19, 2023 8:33:35 PM",
+      "body": "blablablaba21312\n"
+    },
+    {
+      "id": 2,
+      "title": "213",
+      "datetime": "September 19, 2023 8:33:46 PM",
+      "body": "asd"
+    },
+    {
+      "id": 3,
+      "title": "aasda",
+      "datetime": "September 19, 2023 8:33:50 PM",
+      "body": "sss"
+    },
+    {
+      "id": 4,
+      "title": "Artigo 2",
+      "datetime": "September 19, 2023 8:34:06 PM",
+      "body": "Artigo 1"
+    },
+    {
+      "id": 5,
+      "title": "Artigo 1",
+      "datetime": "September 19, 2023 8:35:21 PM",
+      "body": "2"
+    }
+  ]
+}
