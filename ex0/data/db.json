@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "maca"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "pera"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "banana"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "morangos"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "morangos"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "framboesas"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "frutas"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "pessegos"
+    }
+  ]
+}
